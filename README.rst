@@ -59,7 +59,7 @@ It is as simple as the following command:
 
         git push heroku master
 
-That automatically kicks in all the required processes (updating the code, setting up Java, compiling and building the WAR with Maven, strating the webapp, etc.)
+That automatically kicks in all the required processes (updating the code, setting up Java, compiling and building the WAR with Maven, strating the webapp, etc.).
 
 Cards database
 --------------
@@ -71,8 +71,9 @@ I used a simple PoC implementation for the default approximation, which is based
 References
 ----------
 
-#. [Jersey Getting Started Guide](https://jersey.java.net/documentation/latest/getting-started.html)
-#. [An example Scriptable Equity Calculator](http://pokersleuth.com/programmable-poker-calculator.shtml)
-#. [Heroku Dashboard of whispering-retreat-7930](https://dashboard.heroku.com/apps/whispering-retreat-7930)
-#. [Some hints on how to calculate poker odds](http://entertainment.howstuffworks.com/how-to-calculate-poker-odds1.htm)
-#. [A java library for Texas hold'em simulations & experiments](http://code.google.com/p/moralesce/)
+#. Jersey Getting Started Guide https://jersey.java.net/documentation/latest/getting-started.html
+#. An example Scriptable Equity Calculator http://pokersleuth.com/programmable-poker-calculator.shtml
+#. Heroku Dashboard of whispering-retreat-7930 https://dashboard.heroku.com/apps/whispering-retreat-7930
+#. Some hints on how to calculate poker odds http://entertainment.howstuffworks.com/how-to-calculate-poker-odds1.htm
+#. A java library for Texas hold'em simulations & experiments http://code.google.com/p/moralesce/
+
